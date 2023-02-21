@@ -8,5 +8,8 @@ persist.vendor.fp.template_updateflag=V1
 ro.surface_flinger.set_idle_timer_ms=4000
 ro.surface_flinger.set_touch_timer_ms=4000
 
+# Radio
+persist.radio.multisim.config=dsds
+
 # USB
 vendor.usb.product_string=realme GT 2

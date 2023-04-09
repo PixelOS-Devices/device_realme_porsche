@@ -601,6 +601,7 @@ odm/lib64/libCOppLceTonemapAPI.so
 odm/lib64/libCaptureBokeh.so
 odm/lib64/libDeVIS.so
 odm/lib64/libEIS.so
+odm/lib64/libFDClite.so|6288152be37c751bc7c159bfa8aeeddbacf398da
 odm/lib64/libFaceBeautyCap.so
 odm/lib64/libFaceBeautyPICap.so
 odm/lib64/libFaceBeautyPre.so
@@ -700,6 +701,7 @@ odm/lib64/libsnpe_loader.so
 odm/lib64/libsnpeml.so
 odm/lib64/libstblur_api.so
 odm/lib64/libstblur_capture_api.so
+odm/lib64/libstdc++.so
 odm/lib64/libstface_fd_api.so
 odm/lib64/libstfd_mobile_api.so
 odm/lib64/libtriplecam_image_optical_zoom.so

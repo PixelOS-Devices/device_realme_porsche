@@ -1025,14 +1025,6 @@ odm/firmware/tp/21617/FW_FT3658U_SAMSUNG.img
 odm/firmware/tp/21617/FW_FT3658U_SAMSUNG_FAE.img
 odm/firmware/tp/21617/LIMIT_FT3658U_SAMSUNG.img
 
-# Vibrator
-vendor/bin/hw/vendor.qti.hardware.vibrator.service:vendor/bin/hw/vendor.qti.hardware.vibrator.service.oplus
-vendor/lib64/libqtivibratoreffect.so
-vendor/lib64/vendor.qti.hardware.vibrator.impl.so
-odm/lib64/vendor.aac.hardware.richtap.vibrator-V1-ndk_platform.so
-odm/lib64/vendor.aac.hardware.richtap.vibrator-V2-ndk_platform.so
-odm/lib64/libaacvibrator.so
-
 # VPU firmware
 vendor/firmware/vpu20_4v.b01
 vendor/firmware/vpu20_4v.b02

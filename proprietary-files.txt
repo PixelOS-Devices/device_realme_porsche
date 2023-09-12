@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from realme GT 2 (RMX3312_13.1.0.502(EX01)).
+## are from realme GT 2 (RMX3312_13.1.0.1411(EX01)).
 
 # ACDB
 odm/etc/acdbdata/Bluetooth_cal.acdb
@@ -579,7 +579,6 @@ odm/lib64/camera/com.qti.sensormodule.qtech_imx766_216B2.bin
 odm/lib64/camera/com.qti.sensormodule.shinetech_ov02b10.bin
 odm/lib64/camera/com.qti.sensormodule.shinetech_ov08d10.bin
 odm/lib64/camera/com.qti.sensormodule.sunny_imx471_216B2.bin
-odm/lib64/camera/com.qti.tuned.default.bin
 odm/lib64/camera/com.qti.tuned.sm8350_imx471_sunny_216B2.bin
 odm/lib64/camera/com.qti.tuned.sm8350_ov02b10_shinetech.bin
 odm/lib64/camera/com.qti.tuned.sm8350_ov08d10_shinetech.bin

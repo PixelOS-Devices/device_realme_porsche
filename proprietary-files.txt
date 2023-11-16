@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from realme GT 2 (RMX3312_13.1.0.502(EX01)).
+## are from realme GT 2 (RMX3312_13.1.0.1630(EX01)).
 
 # ACDB
 odm/etc/acdbdata/Bluetooth_cal.acdb
@@ -579,7 +579,6 @@ odm/lib64/camera/com.qti.sensormodule.qtech_imx766_216B2.bin
 odm/lib64/camera/com.qti.sensormodule.shinetech_ov02b10.bin
 odm/lib64/camera/com.qti.sensormodule.shinetech_ov08d10.bin
 odm/lib64/camera/com.qti.sensormodule.sunny_imx471_216B2.bin
-odm/lib64/camera/com.qti.tuned.default.bin
 odm/lib64/camera/com.qti.tuned.sm8350_imx471_sunny_216B2.bin
 odm/lib64/camera/com.qti.tuned.sm8350_ov02b10_shinetech.bin
 odm/lib64/camera/com.qti.tuned.sm8350_ov08d10_shinetech.bin
@@ -713,13 +712,6 @@ odm/lib64/vendor.oplus.hardware.cammidasservice-V1-ndk_platform.so
 odm/lib64/vendor.oplus.hardware.orms@1.0.so
 odm/lib64/vendor.oplus.hardware.osense.client@1.0.so
 vendor/etc/camera/M_FaceAttribute_RGB_age_gender_1.7.1.model.hardcode
-vendor/lib/camera.device@3.2-impl.so
-vendor/lib/camera.device@3.3-impl.so
-vendor/lib/camera.device@3.4-external-impl.so
-vendor/lib/camera.device@3.4-impl.so
-vendor/lib/camera.device@3.5-external-impl.so
-vendor/lib/camera.device@3.5-impl.so
-vendor/lib/camera.device@3.6-external-impl.so
 vendor/lib/libcamxexternalformatutils.so
 vendor/lib64/camera/components/com.qti.camx.chiiqutils.so
 vendor/lib64/camera/components/com.qti.eisv2.so
@@ -770,13 +762,6 @@ vendor/lib64/camera/components/com.qtistatic.stats.pdlib.so
 vendor/lib64/camera/components/libdepthmapwrapper_secure.so
 vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.override.so
-vendor/lib64/camera.device@3.2-impl.so
-vendor/lib64/camera.device@3.3-impl.so
-vendor/lib64/camera.device@3.4-external-impl.so
-vendor/lib64/camera.device@3.4-impl.so
-vendor/lib64/camera.device@3.5-external-impl.so
-vendor/lib64/camera.device@3.5-impl.so
-vendor/lib64/camera.device@3.6-external-impl.so
 vendor/lib64/com.qti.chiusecaseselector.so
 vendor/lib64/com.qti.feature2.anchorsync.so
 vendor/lib64/com.qti.feature2.demux.so

@@ -49,9 +49,6 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/com.nxp.mifare.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.nxp.mifare.xml
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage
-
 PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
@@ -69,4 +66,4 @@ $(call soong_config_set,OPLUS_LINEAGE_VIBRATOR_HAL,USE_EFFECT_STREAM,true)
 $(call inherit-product, device/oneplus/sm8350-common/common.mk)
 
 # Inherit from the proprietary files makefile.
-$(call inherit-product, vendor/oneplus/martini/martini-vendor.mk)
+$(call inherit-product, vendor/realme/porsche/porsche-vendor.mk)
